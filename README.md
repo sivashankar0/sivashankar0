@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @sivashankar0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi, I'm Sivashankar 👋
 
-<!---
-sivashankar0/sivashankar0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data Engineer @ Artpark. I build data pipelines and ML-adjacent tools — OCR extraction, document processing, and automation for structured/unstructured data.
+
+- 🔧 Currently: building data pipelines and document-processing tools
+- 🌱 Learning: expanding into orchestration and cloud data tools
+- 💞️ Open to collaborating on: data engineering, OCR/document extraction, and ML automation projects
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/siva-shankar-72abb8252) · boyasivashankar45@gmail.com
+
+### Tech Stack
+Python · SQL · Jupyter Notebook · OpenCV · Pandas
+
+---
+📌 Check out my pinned repos below for projects on OCR extraction, document processing, and data pipelines.
