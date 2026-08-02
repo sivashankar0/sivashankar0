@@ -11,4 +11,5 @@ Data Engineer @ Artpark. I build data pipelines and ML-adjacent tools — OCR ex
 Python · SQL · Jupyter Notebook · OpenCV · Pandas
 
 ---
-📌 Check out my pinned repos below for projects on OCR extraction, document processing, and data pipelines.
+
+📌 Check out my pinned repos below for projects on OCR
