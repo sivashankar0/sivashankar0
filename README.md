@@ -18,12 +18,13 @@ I'm currently expanding into orchestration and cloud data tools, and enjoy apply
 
 - **Languages:** Python, SQL, JavaScript, TypeScript
 - **Data/ML:** Pandas, OpenCV, Tesseract OCR, Jupyter Notebook
+- **LLMs & GenAI:** RAG pipelines, pgvector, prompt engineering, Google Gemini API, Hugging Face Transformers, document AI
 - **Backend & Web:** FastAPI, Django, PostgreSQL, Docker, REST APIs, HTML
 - **Mobile:** React Native, Expo
 - **Cloud (AWS):** S3, EC2, Lambda, RDS, DynamoDB, IAM, CloudWatch
 - **Cloud (Azure):** Blob Storage, Data Lake Storage, Functions, Virtual Machines, Data Factory, Synapse, Databricks, Azure SQL, Cosmos DB
 - **Visualization/Tools:** Gradio, Matplotlib
-- **Other:** RAG pipelines, Cloudinary, Data Automation
+- **Other:** Cloudinary, Data Automation
 
 ---
 
