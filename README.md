@@ -50,18 +50,6 @@ A trained image-classification model that detects disease in tomato plant leaves
 
 🔗 https://github.com/sivashankar0/Tomato_Plant_Disease_detection
 
-### 💬 Price Negotiation Chatbot
-A Django web app where customers can negotiate product prices with a chatbot before checkout.
-- Full e-commerce flow: login, product cart, and a dedicated negotiation module
-- Chat-based negotiation logic backed by Django, with an HTML/JS frontend
-
-🔗 https://github.com/sivashankar0/Price_Negotiation_Chatbot
-
-### 📚 INFOYS Project
-A milestone-based data extraction and processing project, built out across four notebooks.
-
-🔗 https://github.com/sivashankar0/INFOYS-PROJECT
-
 ---
 
 ## 🤝 Connect
